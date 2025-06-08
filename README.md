@@ -1,4 +1,4 @@
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shujiejune&layout=compact&langs_count=10&theme=solarized-light&hide=html)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=shujiejune&layout=compact&langs_count=8&theme=solarized-light&hide=html)
 
 <!--
 **shujiejune/shujiejune** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
