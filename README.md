@@ -1,4 +1,4 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shujiejune&card_width=510&size_weight=0.5&count_weight=0.5&langs_count=9&layout=compact&theme=solarized-light&hide=html,css,ejs,shaderlab)](https://github.com/shujiejune/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shujiejune&card_width=510&size_weight=0.5&count_weight=0.5&langs_count=20&layout=compact&theme=solarized-light&hide=html,css,ejs,shaderlab)](https://github.com/shujiejune/github-readme-stats)
 
 <!--
 **shujiejune/shujiejune** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
