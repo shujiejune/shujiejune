@@ -1,4 +1,3 @@
-[![Top Langs](https://github-readme-stats-eight-xi-93.vercel.app/api/top-langs/?username=shujiejune&card_width=300&size_weight=1&count_weight=0&langs_count=8&layout=compact&theme=solarized-light&hide=html,css,ejs,shaderlab,hlsl)](https://github.com/shujiejune/github-readme-stats)
 <img align="left" alt="shujiejune's top langs stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shujiejune&card_width=300&size_weight=1&count_weight=0&langs_count=8&layout=compact&theme=solarized-light&hide=html,css,ejs,shaderlab,hlsl" />
 
 <!--
