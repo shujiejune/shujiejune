@@ -6,6 +6,9 @@ username=shujiejune&show_icons=true&card_width=310&theme=solarized-light" />
 <a href="https://github.com/shujiejune/github-readme-stats">
   <img align="center" src="https://github-readme-stats-drab-five-17.vercel.app/api?username=shujiejune&card_width=310&size_weight=1&count_weight=0&langs_count=10&layout=compact&theme=solarized-light&hide=html,css,scss,ejs,shaderlab,hlsl" />
 </a>
+<a href="https://github.com/shujiejune/github-readme-stats">
+  <img align="center" src="https://github-readme-stats-drab-five-17.vercel.app/api?username=shujiejune&include_all_commits=true&show_icons=true&card_width=310&theme=solarized-light" />
+</a>
 
 
 <!--
