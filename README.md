@@ -1,5 +1,6 @@
 <img align="left" alt="shujiejune's top langs stats" src="https://github-readme-stats-drab-five-17.vercel.app/api/top-langs/?username=shujiejune&card_width=310&size_weight=1&count_weight=0&langs_count=10&layout=compact&theme=solarized-light&hide=html,css,scss,ejs,shaderlab,hlsl" />
-<img align="left" alt="shujiejune's github stats" src="https://github-readme-stats-drab-five-17.vercel.app/api?username=shujiejune&show_icons=true" />
+<img align="left" alt="shujiejune's github stats" src="https://github-readme-stats-drab-five-17.vercel.app/api?
+username=shujiejune&show_icons=true&card_width=310&theme=solarized-light" />
 
 <!--
 **shujiejune/shujiejune** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
