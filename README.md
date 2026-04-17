@@ -1,5 +1,5 @@
 <a href="https://github.com/shujiejune/github-readme-stats">
-  <img align="left" src="https://github-readme-stats-drab-five-17.vercel.app/api/top-langs/?username=shujiejune&card_width=300&size_weight=1&count_weight=0&langs_count=10&layout=compact&theme=solarized-light&hide=html,css,scss,ejs,shaderlab,hlsl" />
+  <img align="left" src="https://github-readme-stats-drab-five-17.vercel.app/api/top-langs/?username=shujiejune&card_width=300&size_weight=1&count_weight=0&langs_count=10&layout=compact&theme=solarized-light&hide=html,css,scss,ejs,shaderlab,hlsl,markdown" />
 </a>
 <!--
 <a href="https://github.com/shujiejune/github-readme-stats">
