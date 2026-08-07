@@ -3,7 +3,7 @@
 </a>
 <!--
 <a href="https://github.com/shujiejune/github-readme-stats">
-  <img align="left" src="https://github-readme-stats-drab-five-17.vercel.app/api?username=shujiejune&include_all_commits=true&show_icons=true&card_width=310&theme=solarized-light" />
+  <img align="left" src="https://github-readme-stats-drab-five-17.vercel.app/api?username=shujiejune&include_all_commits=true&show_icons=true&card_width=300&theme=solarized-light" />
 </a>
 -->
 
