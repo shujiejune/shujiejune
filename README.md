@@ -1,11 +1,9 @@
-### Hi, I'm shujiejune 👋
+## Hi, I'm Shujie 👋
 
 Backend-leaning full-stack developer in Los Angeles, most at home in **Go**.
 I like building the whole stack, now building **[interv-cli](https://github.com/shujiejune/interv-cli)**, a local-first CLI that turns my Markdown notes into voice mock interviews.
 
-<br/>
-
-## 🛠️ Tech I reach for
+### 🛠️ Tech I reach for
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white)
@@ -26,9 +24,7 @@ I like building the whole stack, now building **[interv-cli](https://github.com/
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white)
 
-<br/>
-
-## 📊 GitHub stats
+### 📊 GitHub stats
 
 <p align="left">
   <img src="https://github-readme-stats-drab-five-17.vercel.app/api/top-langs/?username=shujiejune&card_width=300&size_weight=1&count_weight=0&langs_count=10&layout=compact&theme=solarized-light&hide=html,css,scss,ejs,shaderlab,hlsl" alt="Top languages" />
