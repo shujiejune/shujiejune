@@ -1,13 +1,7 @@
 ### Hi, I'm shujiejune 👋
 
 Backend-leaning full-stack developer in Los Angeles, most at home in **Go**.
-I like building the whole stack — and then poking underneath it to see how it works.
-
-- 🔭 Now building **[interv-cli](https://github.com/shujiejune/interv-cli)** — a local-first CLI that turns my Markdown notes into voice mock interviews (RAG, Whisper STT, tool-augmented LLM evaluation)
-- 🌱 Learning **Rust**, and building **[my own Redis in C](https://github.com/shujiejune/my-redis)** to understand the real one
-- 💬 Ask me about **Go**, **Spring Boot**, or wiring up LLM agents from scratch — no LangChain
-- ⚡ Side quests: Unity games ([Fracture Run](https://github.com/shujiejune/fracture-run)) and a custom Astro [blog theme](https://github.com/shujiejune/sirius)
-- 📫 Open to work — reach me here on GitHub
+I like building the whole stack, now building **[interv-cli](https://github.com/shujiejune/interv-cli)**, a local-first CLI that turns my Markdown notes into voice mock interviews.
 
 <br/>
 
@@ -34,23 +28,9 @@ I like building the whole stack — and then poking underneath it to see how it 
 
 <br/>
 
-## ✨ Selected projects
-
-| | Project | Stack | What it is |
-|---|---|---|---|
-| 🗣️ | [**interv-cli**](https://github.com/shujiejune/interv-cli) | Python | Local-first interview prep: notes → vector index → grounded question banks → voice mock interviews with LLM rubric scoring |
-| 🤖 | [**Skitter**](https://github.com/shujiejune/Skitter) | Go · TypeScript | Robots dispatch & delivery management app |
-| 🏺 | [**jingdezhen-ceramics-refactor**](https://github.com/shujiejune/jingdezhen-ceramics-refactor) | Go · SolidJS | E-commerce & travel reservation for the Jingdezhen ceramics community |
-| 💬 | [**people-ai**](https://github.com/shujiejune/people-ai) | JavaScript | AI agent for conversational, knowledge-grounded queries |
-| 🧱 | [**my-redis**](https://github.com/shujiejune/my-redis) | C | Building Redis from scratch |
-| 🎮 | [**fracture-run**](https://github.com/shujiejune/fracture-run) | C# · Unity | Endless runner with shooting mechanics |
-
-<br/>
-
 ## 📊 GitHub stats
 
 <p align="center">
-  <img src="https://github-readme-stats-drab-five-17.vercel.app/api?username=shujiejune&include_all_commits=true&show_icons=true&card_width=300&theme=solarized-light" alt="GitHub stats" />
   <img src="https://github-readme-stats-drab-five-17.vercel.app/api/top-langs/?username=shujiejune&card_width=300&size_weight=1&count_weight=0&langs_count=10&layout=compact&theme=solarized-light&hide=html,css,scss,ejs,shaderlab,hlsl" alt="Top languages" />
 </p>
 
