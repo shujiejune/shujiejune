@@ -1,9 +1,17 @@
-## Hi, I'm Shujie 👋
+### Hi, I'm shujiejune 👋
 
 Backend-leaning full-stack developer in Los Angeles, most at home in **Go**.
-I like building the whole stack, now building **[interv-cli](https://github.com/shujiejune/interv-cli)**, a local-first CLI that turns my Markdown notes into voice mock interviews.
+I like building the whole stack — and then poking underneath it to see how it works.
 
-### 🛠️ Tech I reach for
+- 🔭 Now building **[interv-cli](https://github.com/shujiejune/interv-cli)** — a local-first CLI that turns my Markdown notes into voice mock interviews (RAG, Whisper STT, tool-augmented LLM evaluation)
+- 🌱 Learning **Rust**, and building **[my own Redis in C](https://github.com/shujiejune/my-redis)** to understand the real one
+- 💬 Ask me about **Go**, **Spring Boot**, or wiring up LLM agents from scratch — no LangChain
+- ⚡ Side quests: Unity games ([Fracture Run](https://github.com/shujiejune/fracture-run)) and a custom Astro [blog theme](https://github.com/shujiejune/sirius)
+- 📫 Open to work — reach me here on GitHub
+
+<br/>
+
+## 🛠️ Tech I reach for
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white)
@@ -21,11 +29,31 @@ I like building the whole stack, now building **[interv-cli](https://github.com/
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
 ![Astro](https://img.shields.io/badge/Astro-BC52EE?style=flat&logo=astro&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white)
 
-### 📊 GitHub stats
+<br/>
 
-<p align="left">
+## ✨ Selected projects
+
+| | Project | Stack | What it is |
+|---|---|---|---|
+| 🗣️ | [**interv-cli**](https://github.com/shujiejune/interv-cli) | Python | Local-first interview prep: notes → vector index → grounded question banks → voice mock interviews with LLM rubric scoring |
+| 🤖 | [**Skitter**](https://github.com/shujiejune/Skitter) | Go · TypeScript | Robots dispatch & delivery management app |
+| 🏺 | [**jingdezhen-ceramics-refactor**](https://github.com/shujiejune/jingdezhen-ceramics-refactor) | Go · SolidJS | E-commerce & travel reservation for the Jingdezhen ceramics community |
+| 💬 | [**people-ai**](https://github.com/shujiejune/people-ai) | JavaScript | AI agent for conversational, knowledge-grounded queries |
+| 🧱 | [**my-redis**](https://github.com/shujiejune/my-redis) | C | Building Redis from scratch |
+| 🎮 | [**fracture-run**](https://github.com/shujiejune/fracture-run) | C# · Unity | Endless runner with shooting mechanics |
+
+<br/>
+
+## 📊 GitHub stats
+
+<p align="center">
+  <img src="https://github-readme-stats-drab-five-17.vercel.app/api?username=shujiejune&include_all_commits=true&show_icons=true&card_width=300&theme=solarized-light" alt="GitHub stats" />
   <img src="https://github-readme-stats-drab-five-17.vercel.app/api/top-langs/?username=shujiejune&card_width=300&size_weight=1&count_weight=0&langs_count=10&layout=compact&theme=solarized-light&hide=html,css,scss,ejs,shaderlab,hlsl" alt="Top languages" />
 </p>
+
+![Profile views](https://komarev.com/ghpvc/?username=shujiejune&color=0969da&style=flat)
