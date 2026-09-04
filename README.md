@@ -26,6 +26,6 @@ Now building **[interv-cli](https://github.com/shujiejune/interv-cli)**, a local
 
 ## 📊 GitHub stats
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats-drab-five-17.vercel.app/api/top-langs/?username=shujiejune&card_width=300&size_weight=1&count_weight=0&langs_count=10&layout=compact&theme=solarized-light&hide=html,css,scss,ejs,shaderlab,hlsl" alt="Top languages" />
 </p>
