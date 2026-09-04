@@ -2,7 +2,7 @@
 
 Backend-leaning full-stack developer based in Los Angeles, most at home in **Go**.
 
-Now building **[interv-cli](https://github.com/shujiejune/interv-cli)**, a local-first CLI that turns my markdown notes and the JD into voice interview prep.
+I am learning Rust🦀 and Lisp☯️!
 
 ## 🛠️ Tech I reach for
 
