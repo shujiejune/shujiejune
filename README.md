@@ -2,7 +2,7 @@
 
 Backend-leaning full-stack developer based in Los Angeles, most at home in **Go**.
 
-I am learning Rust🦀 and Lisp☯️!
+I am learning Lisp☯️!
 
 ## 🛠️ Tech I reach for
 
